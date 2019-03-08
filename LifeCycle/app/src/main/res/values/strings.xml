@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LifeCycle</string>
+    <string name="text1">Демонстрация жизненного цикла Activity</string>
+    <string name="text2">TextView</string>
+    <string name="button">Button</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">blank fragment 1</string>
+    <string name="table_show_fragment">Показать фрагмент</string>
+    <string name="table_Hide_Fragment">Скрыть фрагмент</string>
+</resources>
